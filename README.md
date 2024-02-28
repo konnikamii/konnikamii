@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 ## Contact Me
 - Instagram: "philipsanjar" at https://www.instagram.com/philipsanjar/
+- Instagram: [philipsanjar][https://www.instagram.com/philipsanjar/]
 
 Thank you for visiting my profile!
