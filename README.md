@@ -27,6 +27,10 @@ Utils: ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&lo
 ## My GitHub Stats
 ![konnikamii's github stats](https://github-readme-stats.vercel.app/api?username=konnikamii&show_icons=true&theme=radical)
 
+
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+
 ## Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/philipsanjar)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/filipsanjar)
