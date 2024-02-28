@@ -25,7 +25,7 @@ Utils: ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&lo
 
 
 ## My GitHub Stats
-![YourName's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![konnikamii's github stats](https://github-readme-stats.vercel.app/api?username=konnikamii&show_icons=true&theme=radical)
 
 ## Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/philipsanjar)
