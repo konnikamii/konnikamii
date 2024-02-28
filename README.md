@@ -6,8 +6,8 @@ I'm a software developer with a passion for building scalable web applications a
 
 - 🔭 I’m currently working on a React-Vite-Python project that aggregates trading data and provides valuable metrics to customers.
 - 🌱 I’m currently learning about cloud-native technologies like Kubernetes and serverless architectures.
-- 👯 I’m looking to collaborate on open source projects that focus on environmental sustainability and generative AI.
-- 🤔 I’m looking for help with understanding blockchain development.
+- 👯 I’m looking to collaborate on open source projects that focus on environmental sustainability, generative AI, and cyber security.
+- 🤔 I’m looking for help with understanding modern cryptographic development.
 - 💬 Ask me about anything tech-related, I'm always happy to help!
 - 📫 How to reach me: [philip.sanjar@gmail.com](mailto:philip.sanjar@gmail.com)
 - 😄 Pronouns: He/Him
