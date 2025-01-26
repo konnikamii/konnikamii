@@ -5,7 +5,7 @@
 I'm a software developer with a passion for building scalable web applications and working with cutting-edge technologies. I specialize in Full Stack Development, particularly with JavaScript frameworks like React and Node.js.
 
 - 🔭 I’m currently working on a React-Vite-FastAPI project that aggregates trading data and provides valuable metrics to customers.
-- 🌱 I’m currently learning about cloud-native technologies like Kubernetes and serverless architectures.
+- 🌱 I’m currently learning about blockchain development and serverless architectures.
 - 👯 I’m looking to collaborate on open source projects that focus on environmental sustainability, generative AI, and cyber security. 
 - 💬 Ask me about anything tech-related, I'm always happy to help!
 - 📫 How to reach me: [philip.sanjar@gmail.com](mailto:philip.sanjar@gmail.com)
@@ -14,7 +14,7 @@ I'm a software developer with a passion for building scalable web applications a
 
 
 ## Languages and Tools:
-Backend: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=CoffeeScript)
+Backend: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=CoffeeScript) ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 
 Frontend: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white&labelColor=5c5c5c) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) ![Stylex](https://img.shields.io/badge/-Stylex-black?style=flat-square&logo=hyperx)
