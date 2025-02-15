@@ -29,7 +29,7 @@ Utils: ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=v
 
 Service Providers: ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-black?style=flat-square&logo=digitalocean) ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
-Other: ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Awwwards) ![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)
+Other: ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Awwwards) ![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx) 
 
 
 ## My GitHub Stats
