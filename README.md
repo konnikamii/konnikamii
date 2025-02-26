@@ -47,4 +47,4 @@ Other: ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo
 - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/PhilipSanjar)
 
 Thank you for visiting my profile!
-I am open for hire and looking forward to working with you on impactful projects!
+I am open for hire and looking forward to working with you on impactful projects! 
